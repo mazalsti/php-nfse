@@ -1,4 +1,4 @@
-# php-nfse
+# php-nfse - eu sou bom
 **Framework para a integração com os sistemas de Notas Fiscais Eletrônicas de Serviços das Prefeituras Municipais**
 
 *php-nfse* é um framework para geração dos RPS e comunicação das NFSe com as Prefeituras Municipais.
