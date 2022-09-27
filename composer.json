@@ -1,7 +1,7 @@
 {
     "name": "lucas-simoes/php-nfse",
     "type": "library",
-    "description": "API para geração e comunicação da NFSe com as Prefeituras. Este é um fork do projeto nfephp-org/sped-nfse que foi descontinuado",
+    "description": "API para geração e comunicação da NFSe com as Prefeituras.",
     "keywords": [
         "nfse",
         "sped",
